@@ -4,8 +4,8 @@ This project is the final submission for **DSCI 632: Applied Cloud Computing** a
 
 The entire pipeline is implemented in a **Jupyter Notebook using Google Colab**, which allows for easy replication and cloud-based execution.
 
-[![Open in NBViewer](https://img.shields.io/badge/Open%20Notebook-NBViewer-orange?logo=jupyter)](https://nbviewer.org/github/vlees46/Applied-Cloud-Computing/blob/main/CaliforniaHousingPrices.ipynb)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlees46/Applied-Cloud-Computing/blob/main/CaliforniaHousingPrices.ipynb)
+[![Open in NBViewer](https://img.shields.io/badge/Open%20Notebook-NBViewer-orange?logo=jupyter)](https://nbviewer.org/github/vlees46/Applied-Cloud-Computing/CaliforniaHousingPrices.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlees46/Applied-Cloud-Computing/CaliforniaHousingPrices.ipynb)
 
 ---
 
