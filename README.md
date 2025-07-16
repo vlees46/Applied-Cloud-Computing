@@ -7,7 +7,7 @@ The entire pipeline is implemented in a **Jupyter Notebook using Google Colab**,
 [![Open in NBViewer](https://img.shields.io/badge/Open%20Notebook-NBViewer-orange?logo=jupyter)](https://github.com/vlees46/Applied-Cloud-Computing/blob/main/California%20Housing%20Prices.ipynb)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/vlees46/Applied-Cloud-Computing/blob/main/California%20Housing%20Prices.ipynb)
 
----
+
 <hr>
 <div class="markdown-heading" dir="auto">
   <h3 class="heading-element" dir="auto">🧰 Languages and Tools</h3>
@@ -74,7 +74,6 @@ The entire pipeline is implemented in a **Jupyter Notebook using Google Colab**,
 
 This notebook demonstrates how to build a predictive pipeline using cloud-native and distributed tools, focusing on scalability, feature engineering, and model evaluation. All code and analysis were performed in **Google Colab** using **PySpark**.
 
----
 
 ## 🚀 Key Highlights
 
