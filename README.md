@@ -86,26 +86,6 @@ This notebook demonstrates how to build a predictive pipeline using cloud-native
 
 ---
 
-## 📊 Key Skills Demonstrated
-
-- `PySpark`
-- `Apache Spark`
-- `Google Colab`
-- `Jupyter Notebook`
-- `Linear Regression`
-- `Feature Engineering`
-- `Log Transformation`
-- `VectorAssembler`
-- `StringIndexer`
-- `Data Cleaning`
-- `Exploratory Data Analysis (EDA)`
-- `Model Evaluation`
-- `Big Data Processing`
-- `Distributed Computing`
-- `California Housing Dataset`
-
----
-
 ## 📂 Dataset
 
 - [California Housing Prices Dataset](https://www.kaggle.com/datasets/camnugent/california-housing-prices)
